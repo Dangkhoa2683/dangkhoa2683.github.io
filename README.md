@@ -1,1 +1,1 @@
-#Chào mừng đến web của khoa. Nếu bạn thấy dòng này chắc chắn web mất file index.html. Liên hệ khoa để thêm lại
+Chào mừng đến web của khoa. Nếu bạn thấy dòng này có khả năng web đã bị gỡ bởi dev của trang
